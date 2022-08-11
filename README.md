@@ -1,4 +1,6 @@
-O QUE PODEMOS FAZER COM UM KEYLOGGER?
+#### O QUE PODEMOS FAZER COM UM KEYLOGGER?
+
+
 Keylogger é um tipo de software que, uma vez ativo em um sistema, pode registrar cada pressionamento de tecla feito pelo sistema. Todo o pressionamento de tecla gravado é salvo em um arquivo de log. Um keylogger pode gravar uma mensagem, e-mail e capturar qualquer tipo de informação que você digitar a qualquer momento usando o teclado.
 
 ### Criar arquivo JS Keylogger - keylogger.js
