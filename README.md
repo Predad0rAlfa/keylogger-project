@@ -99,6 +99,6 @@ Um keylogger simples baseado na web. Nesta documentação, você saberá como fu
 #### OBFUSCAÇÃO DE JAVASCRIPT
 Podemos ir mais longe, usando uma ferramenta on-line de ofuscação para ocultar nosso código JavaScript e evitar que o proprietário do site detecte o keylogger à primeira vista.
 
-Sinta-se livre para contribuir para corrigir quaisquer problemas, ou para apresentar um problema!
+**Sinta-se livre para contribuir para corrigir quaisquer problemas, ou para apresentar um problema!**
 
-Por favor, note, este repo é apenas para fins educacionais. Nenhum contribuinte, maior ou menor, é culpado por quaisquer ações feitas por este programa.
+**Por favor, note, este repo é apenas para fins educacionais. Nenhum contribuinte, maior ou menor, é culpado por quaisquer ações feitas por este programa.**
